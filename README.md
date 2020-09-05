@@ -8,7 +8,8 @@
 - Self-driving cars, house-hold robotics, UAVs, AUVs etc
 
 ## Work Experience 💻
-- **2020 - Present**: ML Engineering Lead @ [Toyota Research Institute](https://www.tri.global/)
+- **2020 - Present**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
+- **2019 - 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
 - **2017 - 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
 - **2011 - 2017**: CS PhD @ [CSAIL, MIT](https://www.csail.mit.edu/)
 - **2009 - 2011**: Computer Vision Developer, [PhaseSpace Motion Capture](https://www.phasespace.com/)

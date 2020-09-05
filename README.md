@@ -17,7 +17,6 @@
 
 ## Get in touch 💬 
 - Ask me about **Autonomous Vehicles**, **Machine Learning**, **Perception**, **Computer Vision**, **SLAM**
-- Twitter: https://twitter.com/spillai
-- LinkedIn: https://www.linkedin.com/in/sudeeppillai/
-- Personal site: http://people.csail.mit.edu/spillai/
+- Social media: [Twitter](https://twitter.com/spillai), [LinkedIn](https://www.linkedin.com/in/sudeeppillai/), [Medium](https://medium.com/@sudeep.pillai)
+- Other links: [Personal Site](http://people.csail.mit.edu/spillai/), [CV / Resume](http://people.csail.mit.edu/spillai/data/sudeep-pillai-cv.pdf)
 - Email: sudeep "dot" pillai "at" gmail "dot" com

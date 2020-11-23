@@ -11,9 +11,9 @@
 - **2020 - Present**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
 - **2019 - 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
 - **2017 - 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
-- **2011 - 2017**: CS PhD @ [CSAIL, MIT](https://www.csail.mit.edu/)
+- **2011 - 2017**: Ph.D. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
 - **2009 - 2011**: Computer Vision Developer, [PhaseSpace Motion Capture](https://www.phasespace.com/)
-- **2005 - 2009**: MechE BS @ [UMich](https://umich.edu/)
+- **2005 - 2009**: B.S.E in Mechanical Engineering @ [University of Michigan, Ann Arbor](https://umich.edu/)
 
 ## Get in touch 💬 
 - Ask me about **Autonomous Vehicles**, **Machine Learning**, **Perception**, **Computer Vision**, **SLAM**

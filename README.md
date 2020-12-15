@@ -2,20 +2,24 @@
 
 *Aspiring technologist, thinker, innovator, entrepreneur.*
 
-## Interests 🤓
+## Interests  🤓
 - **TL;DR: Self-supervised autonomous vehicles that learn from life-long visual experience**
 - High-impact ventures leveraging ML/CV technologies in autonomous systems
 - Self-driving cars, house-hold robotics, UAVs, AUVs etc
 
-## Work Experience 💻
+## Work Experience  💻
 - **2020 - Present**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
 - **2019 - 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
 - **2017 - 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
-- **2011 - 2017**: Ph.D. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
 - **2009 - 2011**: Computer Vision Developer, [PhaseSpace Motion Capture](https://www.phasespace.com/)
+
+## Education  📖
+- **2014 - 2017**: Ph.D. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
+  - **Thesis**: [SLAM-aware, Self-Supervised Perception in Mobile Robots](http://people.csail.mit.edu/spillai/projects/phd-thesis/spillai_phd_thesis.pdf)
+- **2011 - 2014**: S.M. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
 - **2005 - 2009**: B.S.E in Mechanical Engineering @ [University of Michigan, Ann Arbor](https://umich.edu/)
 
-## Get in touch 💬 
+## Get in touch  💬 
 - Ask me about **Autonomous Vehicles**, **Machine Learning**, **Perception**, **Computer Vision**, **SLAM**
 - Social media: [Twitter](https://twitter.com/sudeeppillai), [LinkedIn](https://www.linkedin.com/in/sudeeppillai/), [Medium](https://medium.com/@sudeep.pillai)
 - Other links: [Personal Site](http://people.csail.mit.edu/spillai/), [CV / Resume](http://people.csail.mit.edu/spillai/data/sudeep-pillai-cv.pdf)

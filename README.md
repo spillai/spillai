@@ -1,23 +1,24 @@
 # Sudeep Pillai
 
-*Aspiring technologist, thinker, innovator, entrepreneur.*
+*Aspiring technologist, thinker, innovator.*
 
 ## Interests  🤓
-- **TL;DR: Self-supervised autonomous vehicles that learn from life-long visual experience**
+- **TL;DR: Self-supervised visual intelligence in autonomous vehicles that learn from experience.**
 - High-impact ventures leveraging ML/CV technologies in autonomous systems
-- Self-driving cars, house-hold robotics, UAVs, AUVs etc
+- Machine Learning, Computer Vision, Autonomous Vehicles/Robots etc
 
-## Work Experience  💻
-- **2020 - Present**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
-- **2019 - 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
-- **2017 - 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
-- **2009 - 2011**: Computer Vision Developer, [PhaseSpace Motion Capture](https://www.phasespace.com/)
+## Work  💻
+- **Present**: Working on something new! 🚀 🚀 🚀 
+- **Jan 2020 - Mar 2021**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
+- **May 2019 - Dec 2019**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
+- **Oct 2017 - May 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
+- **May 2009 - May 2011**: Computer Vision Developer, [PhaseSpace Motion Capture](https://www.phasespace.com/)
 
-## Education  📖
+## Education  🎓  
 - **2014 - 2017**: Ph.D. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
-  - **Thesis**: [SLAM-aware, Self-Supervised Perception in Mobile Robots](http://people.csail.mit.edu/spillai/projects/phd-thesis/spillai_phd_thesis.pdf)
+  - **📕 Thesis**: [SLAM-aware, Self-Supervised Perception in Mobile Robots](http://people.csail.mit.edu/spillai/projects/phd-thesis/spillai_phd_thesis.pdf)
 - **2011 - 2014**: S.M. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
-- **2005 - 2009**: B.S.E in Mechanical Engineering @ [University of Michigan, Ann Arbor](https://umich.edu/)
+- **2005 - 2008**: B.S.E in Mechanical Engineering @ [University of Michigan, Ann Arbor](https://umich.edu/)
 
 ## Get in touch  💬 
 - Ask me about **Autonomous Vehicles**, **Machine Learning**, **Perception**, **Computer Vision**, **SLAM**

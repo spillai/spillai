@@ -10,7 +10,7 @@
 ## Work  💻
 - **Present**: Working on something new! 🚀 🚀 🚀 
 - **Jan 2020 - Mar 2021**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
-- **May 2019 - Dec 2019**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
+- **May 2019 - Jan 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
 - **Oct 2017 - May 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
 - **May 2009 - May 2011**: Computer Vision Developer, [PhaseSpace Motion Capture](https://www.phasespace.com/)
 

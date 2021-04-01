@@ -13,7 +13,7 @@
 - **May 2019 - Jan 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
 - **Oct 2017 - May 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
 - **May 2014 - Aug 2014**: Research Intern @ [Mitsubishi Electric Research Laboratories](https://www.merl.com/)
-- **May 2009 - May 2011**: Computer Vision Developer, [PhaseSpace Motion Capture](https://www.phasespace.com/)
+- **May 2009 - May 2011**: Computer Vision Developer @ [PhaseSpace Motion Capture](https://www.phasespace.com/)
 - **May 2008 - Aug 2008**: R & D Engineer Intern @ [Segway Inc.](https://www.segway.com/)
 
 ## Education  🎓  

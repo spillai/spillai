@@ -18,7 +18,7 @@
 
 ## Education  🎓  
 - **2014 - 2017**: Ph.D. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
-  - **📕 Thesis**: [SLAM-aware, Self-Supervised Perception in Mobile Robots](http://people.csail.mit.edu/spillai/projects/phd-thesis/spillai_phd_thesis.pdf)
+  - **📕 Thesis**: [SLAM-aware, Self-Supervised Perception in Mobile Robots](https://people.csail.mit.edu/spillai/projects/phd-thesis/spillai_phd_thesis.pdf)
 - **2011 - 2014**: S.M. in Computer Science @ [CSAIL, MIT](https://www.csail.mit.edu/)
 - **2005 - 2008**: B.S.E in Mechanical Engineering @ [University of Michigan, Ann Arbor](https://umich.edu/)
 
@@ -33,5 +33,5 @@
 ## Get in touch  💬 
 - Ask me about **Autonomous Vehicles**, **Machine Learning**, **Perception**, **Computer Vision**, **SLAM**
 - Social media: [Twitter](https://twitter.com/sudeeppillai), [LinkedIn](https://www.linkedin.com/in/sudeeppillai/), [Medium](https://medium.com/@sudeep.pillai)
-- Other links: [Personal Site](http://people.csail.mit.edu/spillai/), [CV / Resume](http://people.csail.mit.edu/spillai/data/sudeep-pillai-cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=FuYln-oAAAAJ&hl=en)
+- Other links: [Personal Site](https://people.csail.mit.edu/spillai/), [CV / Resume](https://people.csail.mit.edu/spillai/data/sudeep-pillai-cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=FuYln-oAAAAJ&hl=en)
 - Email: sudeep "dot" pillai "at" gmail "dot" com

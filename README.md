@@ -8,7 +8,7 @@
 - Machine Learning, Computer Vision, Autonomous Vehicles/Robots etc
 
 ## Work  💻
-- **Present**: Working on something new! 🚀 🚀 🚀 
+- **Jan 2022 - Present**: Co-founder / CEO, ML infrastructure tools for Generative AI @ [Autonomi AI](https://autonomi.ai)
 - **Jan 2020 - Mar 2021**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
 - **May 2019 - Jan 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
 - **Oct 2017 - May 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
@@ -31,7 +31,7 @@
 
 
 ## Get in touch  💬 
-- Ask me about **Autonomous Vehicles**, **Machine Learning**, **Perception**, **Computer Vision**, **SLAM**
+- Ask me about **ML Infrastructure**, **Autonomous Vehicles**, **Computer Vision**, **SLAM**
 - Social media: [Twitter](https://twitter.com/sudeeppillai), [LinkedIn](https://www.linkedin.com/in/sudeeppillai/), [Medium](https://medium.com/@sudeep.pillai)
 - Other links: [Personal Site](https://people.csail.mit.edu/spillai/), [CV / Resume](https://people.csail.mit.edu/spillai/data/sudeep-pillai-cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=FuYln-oAAAAJ&hl=en)
 - Email: sudeep "dot" pillai "at" gmail "dot" com

@@ -1,14 +1,14 @@
 # Sudeep Pillai
 
-*Aspiring technologist, thinker, innovator.*
+*Technologist, thinker, innovator.*
 
 ## Interests  🤓
-- **TL;DR: Self-supervised visual intelligence in autonomous vehicles that learn from experience.**
+- **TL;DR: Self-supervised visual intelligence in agents that learn from experience.**
 - High-impact ventures leveraging ML/CV technologies in autonomous systems
 - Machine Learning, Computer Vision, Autonomous Vehicles/Robots etc
 
 ## Work  💻
-- **Jan 2022 - Present**: Co-founder / CEO, ML infrastructure tools for Generative AI @ [Autonomi AI](https://autonomi.ai)
+- **Jan 2022 - Present**: Co-founder / CEO, Building Visual AI Infrastructure @ [VLM Run](https://vlm.run)
 - **Jan 2020 - Mar 2021**: Team Lead, Machine Learning Engineering @ [Toyota Research Institute](https://www.tri.global/)
 - **May 2019 - Jan 2020**: Manager, Machine Learning @ [Toyota Research Institute](https://www.tri.global/)
 - **Oct 2017 - May 2019**: Research Scientist @ [Toyota Research Institute](https://www.tri.global/)
